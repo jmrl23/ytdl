@@ -1,0 +1,6 @@
+[submodule "ytdl-frontend"]
+	path = ytdl-frontend
+	url = https://github.com/jmrl23/ytdl-frontend
+[submodule "ytdl-backend"]
+	path = ytdl-backend
+	url = https://github.com/jmrl23/ytdl-backend
